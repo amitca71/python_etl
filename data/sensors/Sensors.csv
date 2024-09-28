@@ -1,0 +1,7 @@
+tag_name,machine_code,component_code,coordinate
+RZR__MTR_001,CR1,Motor,1V
+RZR__MTR_002,CR1,Motor,3V
+RZR__MTR_003,CR1,Grearbox,2A
+RZR__MTR_004,CONV,Motor,1A
+RZR__MTR_005,CONV,Belt,2A
+RZR__MTR_006,Mill,Gearbox,3V
